@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+nav {
+    display: flex;
+background-color: cornflowerblue;
+align-items: center
+;
+}
+
+.cart {
+      margin-left: 600px;
+}
